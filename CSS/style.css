@@ -1,0 +1,24 @@
+/* body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url('img/crossfit.jpg');
+  }
+  .left{
+    display: inline-block;
+    border: 2px solid red;
+    position: absolute;
+    left: 34px;
+    top: 20px;
+  }
+  .center{
+    border: 2px solid blue;
+    width: 33%;
+    margin: 20px auto;
+  }
+  .right{
+   display: inline-block;
+   border: 2px solid green;
+   position: absolute;
+   right: 34px;
+   top: 20px;
+  } */
